@@ -1,0 +1,12 @@
+{
+  "network": "sepolia",
+  "contract_name": "MediVaultPayments",
+  "contract_address": "0xe0634708A6B2BE15816fe298EE1207A67a9a5407",
+  "deployer": "0xe0634708A6B2BE15816fe298EE1207A67a9a5407",
+  "deployment_block": "0x0",
+  "deployment_timestamp": "0000000000",
+  "compiler_version": "0.8.20",
+  "optimizer_runs": 200,
+  "verification_status": "unverified",
+  "notes": "This file contains no private keys, mnemonics, or secrets."
+}
